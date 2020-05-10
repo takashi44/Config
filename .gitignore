@@ -1,0 +1,9 @@
+# ignore emacs tmp
+*~
+
+*.pyc
+*.o
+
+Thumbs.db
+.DS_Store
+
