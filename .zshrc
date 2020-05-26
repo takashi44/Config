@@ -12,3 +12,5 @@ zstyle ':vcs_info:git:*' formats '%b'
 # Set up the prompt
 setopt PROMPT_SUBST
 PROMPT='[%n@%m] %~ %F{green}${vcs_info_msg_0_}%f'$'\n''> '
+
+export PATH=$HOME/bin:$PATH

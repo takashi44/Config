@@ -115,9 +115,9 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(custom-enabled-themes (quote (tsdh-dark)))
- '(desktop-restore-frames nil)
- '(desktop-save t)
- '(desktop-save-mode t)
+;; '(desktop-restore-frames nil)
+;; '(desktop-save t)
+;; '(desktop-save-mode t)
  '(display-line-numbers-width 3)
  '(global-eldoc-mode nil)
  '(mode-require-final-newline nil)
